@@ -1,4 +1,4 @@
-# Program to print hell, name and other info
+# Program to print hello, name and other info
 print('What up witcha, playa?')
 print('What yo name is?')
 myName = input()
